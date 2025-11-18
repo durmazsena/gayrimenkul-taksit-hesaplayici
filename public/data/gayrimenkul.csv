@@ -1,0 +1,41 @@
+ev_id,proje_adi,sehir,ilce,mahalle,blok,kat,oda_sayisi,m2,teslim_suresi,bitis_tarihi,bugunku_pesin_fiyat
+GZP-H04-001,Gazipark Konutları,Gaziantep,Şahinbey,Yukarıbayındır,H,4,1+1,70,9 Ay,2026-08-12,761670.0
+GZP-D03-002,Gazipark Konutları,Gaziantep,Şehitkamil,Yukarıbayındır,D,3,2+1,115,3 Ay,2026-02-13,1576478.0
+GZP-H04-003,Gazipark Konutları,Gaziantep,Şehitkamil,Bağlarbaşı,H,4,3+1,145,9 Ay,2026-08-12,2414250.0
+GZP-H12-004,Gazipark Konutları,Gaziantep,Şehitkamil,Güneş Mah.,H,12,1+1,70,Teslime Hazır,2025-11-15,1230250.0
+GZP-H03-005,Gazipark Konutları,Gaziantep,Nizip,Serinevler,H,3,1+1,70,Teslime Hazır,2025-11-15,771750.0
+GZP-G09-006,Gazipark Konutları,Gaziantep,Şahinbey,Binevler,G,9,3+1,145,1 Ay,2025-12-15,2378754.0
+GZP-M08-007,Gazipark Konutları,Gaziantep,Şehitkamil,Mavikent,M,8,2+1,115,6 Ay,2026-05-14,1604986.0
+GZP-F06-008,Gazipark Konutları,Gaziantep,Şehitkamil,Mavikent,F,6,2+1,115,1 Ay,2025-12-15,1709659.0
+GZP-L08-009,Gazipark Konutları,Gaziantep,Nizip,Küçükbaşpınar,L,8,1+1,70,1 Ay,2025-12-15,633864.0
+GZP-L10-010,Gazipark Konutları,Gaziantep,Şehitkamil,Küçükbaşpınar,L,10,4+1,185,12 Ay,2026-11-15,2650384.0
+GZP-N11-011,Gazipark Konutları,Gaziantep,Nizip,Güneş Mah.,N,11,5+1,225,9 Ay,2026-08-12,2019938.0
+GZP-P07-012,Gazipark Konutları,Gaziantep,Şahinbey,Bağlarbaşı,P,7,1+1,70,1 Ay,2025-12-15,1063300.0
+GZP-N08-013,Gazipark Konutları,Gaziantep,Nizip,Yamaçtepe,N,8,5+1,225,1 Ay,2025-12-15,2593080.0
+GZP-E07-014,Gazipark Konutları,Gaziantep,Şahinbey,Yamaçtepe,E,7,1+1,70,9 Ay,2026-08-12,1093680.0
+GZP-E11-015,Gazipark Konutları,Gaziantep,Şehitkamil,Fevkani,E,11,3+1,145,9 Ay,2026-08-12,1931400.0
+GZP-C05-016,Gazipark Konutları,Gaziantep,Şehitkamil,Yamaçtepe,C,5,4+1,185,Teslime Hazır,2025-11-15,3833200.0
+GZP-G06-017,Gazipark Konutları,Gaziantep,Şahinbey,Karacaoğlan,G,6,5+1,225,3 Ay,2026-02-13,3048075.0
+GZP-C06-018,Gazipark Konutları,Gaziantep,Şehitkamil,Karacaoğlan,C,6,5+1,225,12 Ay,2026-11-15,3369960.0
+GZP-P09-019,Gazipark Konutları,Gaziantep,Şehitkamil,Serinevler,P,9,5+1,225,3 Ay,2026-02-13,4152094.0
+GZP-C05-020,Gazipark Konutları,Gaziantep,Şehitkamil,Karacaoğlan,C,5,5+1,225,6 Ay,2026-05-14,3523140.0
+GZP-G08-021,Gazipark Konutları,Gaziantep,Şahinbey,Yamaçtepe,G,8,5+1,225,18 Ay,2027-05-09,3320100.0
+GZP-F04-022,Gazipark Konutları,Gaziantep,Şehitkamil,Güneş Mah.,F,4,3+1,145,12 Ay,2026-11-15,2242570.0
+GZP-J09-023,Gazipark Konutları,Gaziantep,Şahinbey,Yamaçtepe,J,9,3+1,145,3 Ay,2026-02-13,2391340.0
+GZP-P01-024,Gazipark Konutları,Gaziantep,Şahinbey,Binevler,P,1,4+1,185,6 Ay,2026-05-14,2849148.0
+GZP-H01-025,Gazipark Konutları,Gaziantep,Şahinbey,Güneş Mah.,H,1,4+1,185,18 Ay,2027-05-09,2315506.0
+GZP-N14-026,Gazipark Konutları,Gaziantep,Şehitkamil,Karacaoğlan,N,14,2+1,115,12 Ay,2026-11-15,1722424.0
+GZP-E05-027,Gazipark Konutları,Gaziantep,Şehitkamil,Yukarıbayındır,E,5,3+1,145,12 Ay,2026-11-15,1841268.0
+GZP-G07-028,Gazipark Konutları,Gaziantep,Şahinbey,Serinevler,G,7,3+1,145,9 Ay,2026-08-12,2123888.0
+GZP-F09-029,Gazipark Konutları,Gaziantep,Şahinbey,Yamaçtepe,F,9,4+1,185,Teslime Hazır,2025-11-15,3211600.0
+GZP-F08-030,Gazipark Konutları,Gaziantep,Nizip,Binevler,F,8,4+1,185,6 Ay,2026-05-14,1930068.0
+GZP-H13-031,Gazipark Konutları,Gaziantep,Şehitkamil,İbrahimli,H,13,5+1,225,18 Ay,2027-05-09,4068844.0
+GZP-D12-032,Gazipark Konutları,Gaziantep,Şahinbey,Binevler,D,12,2+1,115,3 Ay,2026-02-13,1828845.0
+GZP-C07-033,Gazipark Konutları,Gaziantep,Şehitkamil,İbrahimli,C,7,4+1,185,6 Ay,2026-05-14,3621005.0
+GZP-N14-034,Gazipark Konutları,Gaziantep,Şehitkamil,Beylerbeyi,N,14,3+1,145,9 Ay,2026-08-12,2655675.0
+GZP-P11-035,Gazipark Konutları,Gaziantep,Nizip,İbrahimli,P,11,5+1,225,1 Ay,2025-12-15,2662537.0
+GZP-B12-036,Gazipark Konutları,Gaziantep,Nizip,Yukarıbayındır,B,12,2+1,115,3 Ay,2026-02-13,894758.0
+GZP-P10-037,Gazipark Konutları,Gaziantep,Şahinbey,Küçükbaşpınar,P,10,5+1,225,12 Ay,2026-11-15,2700720.0
+GZP-C10-038,Gazipark Konutları,Gaziantep,Nizip,Yamaçtepe,C,10,2+1,115,18 Ay,2027-05-09,1149540.0
+GZP-K03-039,Gazipark Konutları,Gaziantep,Şehitkamil,Yukarıbayındır,K,3,3+1,145,9 Ay,2026-08-12,1883115.0
+GZP-D08-040,Gazipark Konutları,Gaziantep,Şehitkamil,Karacaoğlan,D,8,3+1,145,12 Ay,2026-11-15,2171752.0
